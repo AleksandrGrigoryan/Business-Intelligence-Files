@@ -1,0 +1,23 @@
+body{
+	background: darkblue;
+}
+h1{
+	text-align: center;
+}
+table{
+	color: white;}
+ul{
+	color: red; 
+	font-size: 50;
+}
+.u_list{
+	color: green;
+font-size: 50; 
+}
+.class_par{
+	color: white;
+	font-size: 65;
+}
+li#item_2{
+	color: black;
+}
